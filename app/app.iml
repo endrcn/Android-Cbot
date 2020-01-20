@@ -133,5 +133,6 @@
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
     <orderEntry type="module" module-name="logutil" />
     <orderEntry type="module" module-name="logutil" />
+    <orderEntry type="module" module-name="logutil" />
   </component>
 </module>
